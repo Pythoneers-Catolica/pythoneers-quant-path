@@ -1,6 +1,6 @@
 # Pythoneers: Quantitative Finance Curriculum
 
-## From Zero to Quantitative Analyst in 25 Workshops
+## From Zero to Beginner Quantitative Analyst in 25 Workshops
 
 Welcome to the Pythoneers Quantitative Finance Curriculum, a comprehensive, hands-on masterclass designed to take aspiring quants from their very first line of Python code to building professional, production-grade algorithmic trading systems.
 
