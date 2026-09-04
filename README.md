@@ -139,6 +139,6 @@ This project is licensed under the MIT License. You are free to use, modify, dis
 For questions, community discussions, or feedback regarding the curriculum:
 - GitHub Issues: Open an issue on this repository for technical questions or bug reports.
 - Community Forum: Join our Pythoneers quant study group and Discord community.
-- Website: Visit [pythoneers.com](https://pythoneers.com) for additional quantitative articles and video walkthroughs.
+- Website: Visit https://pythoneers.vercel.app/ for additional quantitative articles and video walkthroughs.
 
 Start your journey now open 00_01_First_Python_Program.ipynb and write your first line of code!
