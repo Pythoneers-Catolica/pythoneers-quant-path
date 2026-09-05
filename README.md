@@ -10,7 +10,7 @@ Modern quantitative finance requires two distinct skill sets:
 1. Rigorous data engineering to process, clean, cache, and align complex market and economic datasets without look-ahead bias or survivorship distortion.
 2. Financial econometrics and portfolio theory to formulate predictive alpha signals, balance risk factors, and optimize capital allocations.
 
-This curriculum brings together pure programming tutorials and academic finance theory. Across 25 structured Jupyter Notebook workshops organized into 5 progressive stages, you will build a production-ready quantitative research stack from scratch. Every workshop includes clear explanations of intuition, fully executable code examples with realistic market data, interactive practice exercises, and verified solutions.
+This curriculum brings together pure programming tutorials and academic finance theory. Across 25 structured Jupyter Notebook workshops organized into roughly 5 progressive stages, you will build a production-ready quantitative research stack from scratch. Every workshop includes clear explanations of intuition, fully executable code examples with realistic market data, interactive practice exercises, and verified solutions.
 
 ### Curriculum Stages
 
